@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>DockablePanel.dll</Assembly>
+    <ClientId>646626EF-0C73-41EA-B49B-18159D415D0B</ClientId>
+    <FullClassName>DockablePanel.App</FullClassName>
+    <Name>DockablePanel</Name>
+    <VendorId>A.Egorov</VendorId>
+    <VendorDescription>A.Egorov</VendorDescription>
+  </AddIn>
+</RevitAddIns>
